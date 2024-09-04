@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """Basic Cache implementation Class
 """
